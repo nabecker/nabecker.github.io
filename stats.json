@@ -41,8 +41,8 @@
       "component---src-pages-404-js-33dc1c7386c08a0298f4.js.map"
     ],
     "commons": [
-      "commons-b7d32d1560bc8d29f789.js",
-      "commons-b7d32d1560bc8d29f789.js.map"
+      "commons-66590ad5f6d2901a4c54.js",
+      "commons-66590ad5f6d2901a4c54.js.map"
     ],
     "component---src-pages-registration-js": [
       "component---src-pages-registration-js-af985dc16b8ff862639b.js",
@@ -61,9 +61,9 @@
       "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
     ],
     "app": [
-      "app-1fd289f53ab47987be12.js",
+      "app-d01aae85e13e0bfbcfb3.js",
       "build-js-styles.css",
-      "app-1fd289f53ab47987be12.js.map",
+      "app-d01aae85e13e0bfbcfb3.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
@@ -75,8 +75,8 @@
       "component---src-pages-about-js-a7a781b50904803154dc.js.map"
     ],
     "path---about": [
-      "path---about-abb7665129eba29dea26.js",
-      "path---about-abb7665129eba29dea26.js.map"
+      "path---about-fe024e90274b7db70ed6.js",
+      "path---about-fe024e90274b7db70ed6.js.map"
     ]
   }
 }
