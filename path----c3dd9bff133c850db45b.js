@@ -1,0 +1,2 @@
+webpackJsonp([60335399758886],{"./node_modules/json-loader/index.js!./.cache/json/layout-index.json":function(t,o){t.exports={data:{site:{siteMetadata:{title:"No Smile Left Behind",logo:"/home/bobby/projects/Practice/nslb-gatsby/src/assets/img/myNSLB.svg",navigation:[{heading:"About",link:"/about/"},{heading:"Education",link:"/education/"},{heading:"Contact",link:"/contact/"}]}}},layoutContext:{}}}});
+//# sourceMappingURL=path----c3dd9bff133c850db45b.js.map

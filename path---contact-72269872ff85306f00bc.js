@@ -1,0 +1,2 @@
+webpackJsonp([0xa7f31e1aeaea],{"./node_modules/json-loader/index.js!./.cache/json/contact.json":function(e,a){e.exports={data:{site:{siteMetadata:{email:"nathan.becker@nosmileleftbehind.com"}}},pathContext:{}}}});
+//# sourceMappingURL=path---contact-72269872ff85306f00bc.js.map

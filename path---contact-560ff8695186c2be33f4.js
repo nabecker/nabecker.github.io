@@ -1,0 +1,2 @@
+webpackJsonp([0xa7f31e1aeaea],{"./node_modules/json-loader/index.js!./.cache/json/contact.json":function(e,n){e.exports={data:{site:{siteMetadata:{contact:{email:"nathan.becker@nosmileleftbehind.com",address:"No Smile Left Behind \n 1046 N Washington Street, Upstairs \n Denver, CO 80203",phone:""},author:{name:"Bobby Jenrow",link:"http://www.bobbyjenrow.com"},legal:"Copyright 2017 No Smile Left Behind PLLC"}}},pathContext:{}}}});
+//# sourceMappingURL=path---contact-560ff8695186c2be33f4.js.map
