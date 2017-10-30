@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-6b0264db7bb4acb1cd4a.js",
-      "component---src-pages-index-js-6b0264db7bb4acb1cd4a.js.map"
+      "component---src-pages-index-js-ff9255463b4d7a185995.js",
+      "component---src-pages-index-js-ff9255463b4d7a185995.js.map"
     ],
     "path---": [
       "path----c3dd9bff133c850db45b.js",
@@ -21,12 +21,12 @@
       "path---education-9c1ffd4220aa805219c8.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-5d14c6075977a1280d36.js",
-      "component---src-layouts-index-js-5d14c6075977a1280d36.js.map"
+      "component---src-layouts-index-js-0844343aa9e2662a4536.js",
+      "component---src-layouts-index-js-0844343aa9e2662a4536.js.map"
     ],
     "component---src-pages-education-js": [
-      "component---src-pages-education-js-300b5b40c559f5231d25.js",
-      "component---src-pages-education-js-300b5b40c559f5231d25.js.map"
+      "component---src-pages-education-js-c70fd9be13eaf18a77f0.js",
+      "component---src-pages-education-js-c70fd9be13eaf18a77f0.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -53,9 +53,9 @@
       "path---contact-67f5b8b703bb931dc366.js.map"
     ],
     "app": [
-      "app-0c4a03adf8a04bb2527f.js",
+      "app-97b00b59d9467e6322e5.js",
       "build-js-styles.css",
-      "app-0c4a03adf8a04bb2527f.js.map",
+      "app-97b00b59d9467e6322e5.js.map",
       "build-js-styles.css.map"
     ],
     "path---404": [
